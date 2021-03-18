@@ -1,0 +1,24 @@
+{
+  "name": "mkz-react-snippets",
+  "version": "1.0.0",
+  "description": "Simple and easy to use react snippets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khaledCSE/mkz-react-snippets.git"
+  },
+  "keywords": [
+    "Khaled",
+    "khaledCSE",
+    "mkz"
+  ],
+  "author": "Md. Khaled uz Zaman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/khaledCSE/mkz-react-snippets/issues"
+  },
+  "homepage": "https://github.com/khaledCSE/mkz-react-snippets#readme"
+}
