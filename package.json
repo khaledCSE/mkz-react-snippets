@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/khaledCSE/mkz-react-snippets/issues"
   },
-  "homepage": "https://github.com/khaledCSE/mkz-react-snippets#readme"
+  "homepage": "https://github.com/khaledCSE/mkz-react-snippets#readme",
+  "dependencies": {
+    "react": "^17.0.1"
+  }
 }
