@@ -1,6 +1,6 @@
 {
   "name": "mkz-react-snippets",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple and easy to use react snippets",
   "main": "index.js",
   "scripts": {
@@ -23,5 +23,6 @@
   "homepage": "https://github.com/khaledCSE/mkz-react-snippets#readme",
   "dependencies": {
     "react": "^17.0.1"
-  }
+  },
+  "devDependencies": {}
 }
