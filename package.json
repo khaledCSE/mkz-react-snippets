@@ -1,37 +1,37 @@
 {
-    "name": "mkz-react-snippets",
-    "version": "1.0.2",
-    "description": "Simple and easy to use react snippets",
-    "main": "./build/index.js",
-    "scripts": {
-        "build": "webpack"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/khaledCSE/mkz-react-snippets.git"
-    },
-    "keywords": [
-        "Khaled",
-        "khaledCSE",
-        "mkz"
-    ],
-    "author": "Md. Khaled uz Zaman",
-    "license": "MIT",
-    "bugs": {
-        "url": "https://github.com/khaledCSE/mkz-react-snippets/issues"
-    },
-    "homepage": "https://github.com/khaledCSE/mkz-react-snippets#readme",
-    "dependencies": {
-        "react": "^17.0.1"
-    },
-    "devDependencies": {
-        "@babel/core": "^7.7.5",
-        "@babel/preset-env": "^7.7.6",
-        "@babel/preset-react": "^7.7.4",
-        "babel-loader": "^8.0.6",
-        "css-loader": "^3.3.0",
-        "style-loader": "^1.0.1",
-        "webpack": "^4.41.2",
-        "webpack-cli": "^3.3.10"
-    }
+  "name": "mkz-react-snippets",
+  "version": "1.0.3",
+  "description": "Simple and easy to use react snippets",
+  "main": "./build/index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khaledCSE/mkz-react-snippets.git"
+  },
+  "keywords": [
+    "Khaled",
+    "khaledCSE",
+    "mkz"
+  ],
+  "author": "Md. Khaled uz Zaman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/khaledCSE/mkz-react-snippets/issues"
+  },
+  "homepage": "https://github.com/khaledCSE/mkz-react-snippets#readme",
+  "dependencies": {
+    "react": "^17.0.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.7.5",
+    "@babel/preset-env": "^7.7.6",
+    "@babel/preset-react": "^7.7.4",
+    "babel-loader": "^8.0.6",
+    "css-loader": "^3.3.0",
+    "style-loader": "^1.0.1",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
+  }
 }
