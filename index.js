@@ -1,4 +1,4 @@
-// import React from 'react';
+import React from 'react';
 import { followZoom } from './followZoom';
 
 export const ZoomableImage = ({ class_name, imagePath }) => {
